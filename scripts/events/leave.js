@@ -1,4 +1,3 @@
-
 const { getTime } = global.utils;
 const { createCanvas } = require("canvas");
 
